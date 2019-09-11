@@ -1,4 +1,4 @@
-//Author:
+//Author:Noble LeDuc
 #include<iostream>
 using namespace std;
 int main()

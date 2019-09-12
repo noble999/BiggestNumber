@@ -20,7 +20,7 @@ int main()
 	{
 		std::cout<<"Of those two numbers, the biggest is: "<<number1;
 
-		std::cout<<"\nThank you for playing. \n";
+		std::cout<<"\nThank you for playing.\n";
 
 	}
 	else
